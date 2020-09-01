@@ -7,6 +7,7 @@ class User
   end
   
   def teach
-    KNOWLEDGE[]
+    KNOWLEDGE[3]
+  end
   
 end
